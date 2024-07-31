@@ -1,4 +1,4 @@
 ### Tech Topics
-&emsp; Image / Video Processing<br>
-&emsp; Data Analysis<br>
-&emsp; Web Development<br>
+- Image / Video Processing
+- Data Analysis
+- Web Development
