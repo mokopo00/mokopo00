@@ -1,7 +1,4 @@
-# Welcome to my GitHub!
-
-## Language
-- Python
-- JavaScript
-- HTML
-- CSS
+### Tech Topics
+&emsp; Image / Video Processing<br>
+&emsp; Data Analysis<br>
+&emsp; Web Development<br>
