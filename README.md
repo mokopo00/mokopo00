@@ -17,7 +17,9 @@
 - Frontend
     - Next.js, Firebase, React, JavaScript, HTML/CSS
 - Backend
-    - Python, Google Cloud
+    - Python, Google Cloud, GAS
+- Application
+    - Swift, GoogleAppSheet
 
 #### Design
 - Blender
